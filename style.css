@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.my_img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.top-container{
+    background: grey;
+}
+.middle-container{
+    backgroung: grey;
+}
